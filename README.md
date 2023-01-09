@@ -7,6 +7,8 @@
 - pandas==1.4.2
 - scikit-learn==1.1.1
 - numpy==1.23.4
+- seaborn==0.11.2
+- matplotlib==3.5.2
 
 ## Before Starting
 - Put ```train.csv```, ```test.csv```, and ```sample_submission.csv``` under ```input``` folder

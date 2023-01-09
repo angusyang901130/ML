@@ -1,4 +1,4 @@
-# ML_Final Project
+# ML Final Project
 
 ## Kaggle Competition
 - Link: https://www.kaggle.com/competitions/tabular-playground-series-aug-2022/overview

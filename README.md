@@ -1,3 +1,3 @@
 # ML
 
-This is the implementation of each lab of the course Machine Learning
+These are the implementation of each lab of the course Machine Learning
